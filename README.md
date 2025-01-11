@@ -95,7 +95,3 @@ After training the model, the following metrics were achieved:
 ## Contributions
 
 Feel free to contribute to this project by forking the repository and submitting pull requests. Contributions are highly appreciated!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
